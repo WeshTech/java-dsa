@@ -6,7 +6,10 @@ public class MergeSort {
         for (int num : numbers) {
             System.out.print(num + ", ");
         }
+
+
         mergeSort(numbers);
+        
 
         System.out.println("\nAfter Sorting");
         for (int num : numbers) {
