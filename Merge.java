@@ -6,7 +6,6 @@ public class Merge {
         if (initialLength < 2) {
             return;
         }
-
         int midIndex = initialLength / 2;
 
         int[] leftArray = new int[midIndex];

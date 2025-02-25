@@ -49,8 +49,6 @@ public class Search {
                 right = mid -1;
             }
         }
-
-
         return -1;
     }
 }

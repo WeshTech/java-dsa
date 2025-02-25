@@ -26,8 +26,6 @@ public class BubbleSort {
                 System.out.print(num + ", ");
             }
         }
-
-
         System.out.println();
         System.out.println("Values after sorting");
         for (int num : nums) {
